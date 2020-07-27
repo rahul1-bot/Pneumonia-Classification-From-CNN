@@ -1,2 +1,2 @@
 # Pneumonia-Classification-From-CNN
-A multi layer robust Perceptron model to determine whether an individual is tainted with Pneumonia or not
+A highly robust and powerful Convolutional Neural Network model which classify whether a person is tainted with Pneumonia or not, by directly inputting the X-ray of chest ( Frontal prospective ) with an accuracy of 93%
